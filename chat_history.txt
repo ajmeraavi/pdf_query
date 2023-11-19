@@ -1,0 +1,11 @@
+Question: summary on budget
+Response: The provided context is not sufficient to provide a summary on the budget.
+
+Question: summary on budget in depth
+Response: The given context provides several snippets of information related to budget estimates and expenditure. However, it is not sufficient to provide an in-depth summary of the budget. It mainly mentions the plan expenditure, non-plan expenditure, and the allocation of funds for various schemes and programs. It also mentions the need for review and restructuring of schemes and the commitment to prudent fiscal policies. 
+
+To provide an in-depth summary of the budget, more information is needed, such as revenue projections, allocation of funds for different sectors, tax proposals, and the overall fiscal deficit. Without this additional information, it is not possible to provide a comprehensive and detailed summary of the budget.
+
+Question: HI
+Response: Hello! How can I assist you today?
+
